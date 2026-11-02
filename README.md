@@ -176,7 +176,7 @@ https://github.com/Vighnesh-2007/AgriConnect-React
 
 **Live Demo:**
 
-Add your Vercel deployment URL here.
+https://agri-connect-react.vercel.app/
 
 ## 🎓 Project Information
 
